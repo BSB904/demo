@@ -4,4 +4,4 @@ This a simple readme file
 
 ##Heading 2
 
-I hope this ins't much of a problem
+THis is bound to cause trouble!
